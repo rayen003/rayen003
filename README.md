@@ -1,6 +1,6 @@
 # Rayen Gallas
 
-**AI & Business Analytics Student | Machine Learning Engineer | Data Science Enthusiast**
+**AI & Business Analytics Student  | Data Science & Finance Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rayen-gallas)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:rayen.gallas03@gmail.com)
