@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rayen-gallas)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:rayen.gallas03@gmail.com)
-[![CV](https://img.shields.io/badge/-Resume-green?style=flat-square&logo=adobe&logoColor=white)](./Resume_RayenGallas.pdf)
 
 ---
 
