@@ -8,7 +8,7 @@
 ---
 
 ### **About Me**
-- Third-year double-degree student in **Business Administration and AI for Business** at Esade
+- Third-year double-degree student in **Business Administration and AI for Business** at **Esade Business & Law school**
 - Passionate about applying **AI and ML** to solve real-world business problems
 - Currently exploring **Deep Learning** and **Financial Analytics**
 
@@ -18,6 +18,9 @@
 | **Project Name** | **Technologies** | **Description** |
 |-----------------|------------------|-----------------|
 | [LSTM Portfolio Optimizer](https://github.com/rayen003/lstm-portfolio-optimizer) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | Advanced portfolio optimization system using deep learning. Leverages LSTM and Transformer architectures to predict market trends and optimize portfolio weights for better returns. |
+| [Agent Factory](https://github.com/rayen003/AgentFactory) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CrewAI](https://img.shields.io/badge/-CrewAI-black?style=flat-square) ![LangChain](https://img.shields.io/badge/-LangChain-3178C6?style=flat-square) | Multi-agent AI system framework built with CrewAI. Enables collaborative problem-solving through orchestrated AI agents, featuring automated task distribution and agent communication. |
+| [Market Analysis Agents](https://github.com/rayen003/Agents) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CrewAI](https://img.shields.io/badge/-CrewAI-black?style=flat-square) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square) | Intelligent market analysis system using multi-agent AI. Features specialized agents for task planning, research, and analysis to provide comprehensive market insights. |
+| [TransformerBard](https://github.com/rayen003/TransformerBard-Advanced-NLP-for-Shakespeare-Text-Generation) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/-Transformers-yellow?style=flat-square) | Advanced NLP model for Shakespeare-style text generation. Implements custom transformer architecture with sophisticated preprocessing and training pipelines. |
 | [Image Captioning AI](https://github.com/rayen003/ImageToText-Model) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![BERT](https://img.shields.io/badge/-BERT-lightgrey?style=flat-square) | Advanced image captioning system combining BERT and VGG16 models. Features custom encoder-decoder architecture for generating accurate image descriptions using deep learning. |
 | [Breast Cancer ML Classifier](https://github.com/rayen003/breast-cancer-ml-classifier) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | Medical diagnosis tool using machine learning. Features PCA-based dimensionality reduction, data preprocessing pipeline, and interactive visualizations for cancer detection. |
 | [Docker Web Application](https://github.com/rayen003/Web_app) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | Modern containerized web application showcasing DevOps practices. Implements microservices architecture with Flask backend and PostgreSQL database integration. |
@@ -33,6 +36,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![CrewAI](https://img.shields.io/badge/-CrewAI-black?style=flat-square)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square)
 
 ### **GitHub Stats**
 ![Rayen's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayen003&show_icons=true&theme=dark)
