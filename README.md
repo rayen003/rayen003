@@ -1,6 +1,6 @@
 # Rayen Gallas
 
-**Business Administration Student | AI Enthusiast | Data Science & Finance**
+**Business Administration & AI Student | Finance & ML Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rayen-gallas)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:rayen.gallas03@gmail.com)
@@ -40,7 +40,7 @@
 ![CrewAI](https://img.shields.io/badge/-CrewAI-black?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
 
 ### **GitHub Stats**
 ![Rayen's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayen003&show_icons=true&theme=dark)
