@@ -58,6 +58,6 @@
 ---
 
 ### **Get in Touch**
-Feel free to reach out for collaborations
+Feel free to reach out for collaborations:
 - Email: [rayen.gallas03@gmail.com](mailto:rayen.gallas03@gmail.com)
 - LinkedIn: [linkedin.com/in/rayen-gallas](https://www.linkedin.com/in/rayen-gallas)
