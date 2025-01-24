@@ -12,12 +12,12 @@
 - Passionate about applying **AI and ML** to solve real-world business problems
 - Currently exploring **Deep Learning** for **Financial Analytics**
 
-
 ---
 
 ### **Featured Projects**
 | **Project Name** | **Technologies** | **Description** |
 |-----------------|------------------|-----------------|
+| [AI Study Assistant](https://github.com/rayen003/ai-study-assistant) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-3178C6?style=flat-square) ![Chroma](https://img.shields.io/badge/-Chroma-FF6F00?style=flat-square) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square) | A RAG-based AI assistant with math and web browsing capabilities. Built with LangChain, Chroma, and OpenAI, it integrates document retrieval, math problem-solving, and real-time web data fetching. |
 | [LSTM Portfolio Optimizer](https://github.com/rayen003/lstm-portfolio-optimizer) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | Advanced portfolio optimization system using deep learning. Leverages LSTM and Transformer architectures to predict market trends and optimize portfolio weights for better returns. |
 | [Agent Factory](https://github.com/rayen003/AgentFactory) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CrewAI](https://img.shields.io/badge/-CrewAI-black?style=flat-square) ![LangChain](https://img.shields.io/badge/-LangChain-3178C6?style=flat-square) | Multi-agent AI system framework built with CrewAI. Enables collaborative problem-solving through orchestrated AI agents, featuring automated task distribution and agent communication. |
 | [MarketMind](https://github.com/rayen003/Agents) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CrewAI](https://img.shields.io/badge/-CrewAI-black?style=flat-square) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square) | Collaborative AI analysis system using multi-agent architecture. Features specialized agents for market research, trend analysis, and strategic insights generation. |
@@ -42,6 +42,10 @@
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-3178C6?style=flat-square)
+![Chroma](https://img.shields.io/badge/-Chroma-FF6F00?style=flat-square)
+
+---
 
 ### **GitHub Stats**
 ![Rayen's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayen003&show_icons=true&theme=dark)
