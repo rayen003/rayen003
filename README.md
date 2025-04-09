@@ -8,15 +8,19 @@
 ---
 
 ### **About Me**
-- Third-year double-degree student in **Business Administration and AI for Business** at **Esade Business & Law school**
-- Passionate about applying **AI and ML** to solve real-world business problems
-- Currently exploring **Deep Learning** for **Financial Analytics**
+- Third-year double-degree student in **Business Administration and AI for Business** at **Esade Business & Law school**.
+- Passionate about applying **AI and ML** to solve real-world business problems.
+- Currently exploring **Deep Learning** for **Financial Analytics**.
 
 ---
 
 ### **Featured Projects**
+
+Here are some of the projects I've worked on:
+
 | **Project Name** | **Technologies** | **Description** |
 |-----------------|------------------|-----------------|
+| [ML Model Visualization](https://github.com/rayen003/ML_model_visualization) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-4B77BE?style=flat-square) | Streamlit app for interactive ML model training, evaluation, EDA, and experiment tracking. |
 | [A/B Testing Visualization](https://github.com/rayen003/ab-testing-visualization) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square) ![Seaborn](https://img.shields.io/badge/-Seaborn-4B77BE?style=flat-square) ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white) | A/B testing app comparing chart effectiveness for data visualization. Features Google Sheets integration, response time measurement, and interactive UI. |
 | [AI Study Assistant](https://github.com/rayen003/RAG-Powered-Study-Assistant) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-3178C6?style=flat-square) ![Chroma](https://img.shields.io/badge/-Chroma-FF6F00?style=flat-square) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square) | A RAG-based AI assistant with math and web browsing capabilities. Built with LangChain, Chroma, and OpenAI, it integrates document retrieval, math problem-solving, and real-time web data fetching. |
 | [LSTM Portfolio Optimizer](https://github.com/rayen003/lstm-portfolio-optimizer) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | Advanced portfolio optimization system using deep learning. Leverages LSTM and Transformer architectures to predict market trends and optimize portfolio weights for better returns. |
@@ -45,11 +49,14 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-3178C6?style=flat-square)
 ![Chroma](https://img.shields.io/badge/-Chroma-FF6F00?style=flat-square)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4B77BE?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=matplotlib)
 
 ---
 
 ### **GitHub Stats**
-![Rayen's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayen003&show_icons=true&theme=dark)
+[![Rayen's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayen003&show_icons=true&theme=dark)](https://github.com/rayen003)
 
 ---
 
@@ -63,6 +70,6 @@
 ---
 
 ### **Get in Touch**
-Feel free to reach out for collaborations:
+Feel free to reach out for collaborations or opportunities:
 - Email: [rayen.gallas03@gmail.com](mailto:rayen.gallas03@gmail.com)
 - LinkedIn: [linkedin.com/in/rayen-gallas](https://www.linkedin.com/in/rayen-gallas)
