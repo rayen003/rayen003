@@ -8,7 +8,7 @@
 ---
 
 ### **About Me**
-- Third-year double-degree student in **Business Administration and AI for Business** at **Esade Business & Law school**.
+- Fourth-year double-degree student in **Business Administration and AI for Business** at **Esade Business & Law school**.
 - Passionate about applying **AI and ML** to solve real-world business problems.
 - Currently exploring **Deep Learning** for **Financial Analytics**.
 
