@@ -1,29 +1,23 @@
 # Rayen Gallas
-
 **Business Administration & AI Student | Finance & ML Enthusiast**
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rayen-gallas)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:rayen.gallas03@gmail.com)
-
 ---
-
 ### **About Me**
 - Fourth-year double-degree student in **Business Administration and AI for Business** at **Esade Business & Law school**.
 - Passionate about applying **AI and ML** to solve real-world business problems.
-- Currently exploring **Deep Learning** for **Financial Analytics**.
-
+- Currently exploring **Deep Learning** for **Financial Analytics** and **Reinforcement Learning** for quantitative trading.
 ---
-
 ### **Featured Projects**
-
 Here are some of the projects I've worked on:
 
-| **Project Name** | **Technologies** | **Description** |
-|-----------------|------------------|-----------------|
+| **Project Name**                  | **Technologies**                                                                 | **Description**                                                                                                                                                                                                 |
+|-----------------------------------|----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Options_RL](https://github.com/rayen003/options_rl)                  | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Gymnasium](https://img.shields.io/badge/-Gymnasium-4CAF50?style=flat-square) | Advanced reinforcement learning environment for options trading. Implements differentiable Black-Scholes-Merton pricing with automatic Greek calculation, stochastic volatility, market regimes, and realistic implied volatility extraction. Agent learns dynamic hedging, volatility arbitrage, and synthetic strategies. |
+| [LSTM Portfolio Optimizer](https://github.com/rayen003/lstm-portfolio-optimizer) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | Advanced portfolio optimization system using deep learning. Leverages LSTM and Transformer architectures to predict market trends and optimize portfolio weights for better returns. |
 | [ML Model Visualization](https://github.com/rayen003/ML_model_visualization) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-4B77BE?style=flat-square) | Streamlit app for interactive ML model training, evaluation, EDA, and experiment tracking. |
 | [A/B Testing Visualization](https://github.com/rayen003/ab-testing-visualization) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square) ![Seaborn](https://img.shields.io/badge/-Seaborn-4B77BE?style=flat-square) ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white) | A/B testing app comparing chart effectiveness for data visualization. Features Google Sheets integration, response time measurement, and interactive UI. |
 | [AI Study Assistant](https://github.com/rayen003/RAG-Powered-Study-Assistant) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-3178C6?style=flat-square) ![Chroma](https://img.shields.io/badge/-Chroma-FF6F00?style=flat-square) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square) | A RAG-based AI assistant with math and web browsing capabilities. Built with LangChain, Chroma, and OpenAI, it integrates document retrieval, math problem-solving, and real-time web data fetching. |
-| [LSTM Portfolio Optimizer](https://github.com/rayen003/lstm-portfolio-optimizer) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | Advanced portfolio optimization system using deep learning. Leverages LSTM and Transformer architectures to predict market trends and optimize portfolio weights for better returns. |
 | [Agent Factory](https://github.com/rayen003/AgentFactory) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CrewAI](https://img.shields.io/badge/-CrewAI-black?style=flat-square) ![LangChain](https://img.shields.io/badge/-LangChain-3178C6?style=flat-square) | Multi-agent AI system framework built with CrewAI. Enables collaborative problem-solving through orchestrated AI agents, featuring automated task distribution and agent communication. |
 | [MarketMind](https://github.com/rayen003/Agents) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CrewAI](https://img.shields.io/badge/-CrewAI-black?style=flat-square) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square) | Collaborative AI analysis system using multi-agent architecture. Features specialized agents for market research, trend analysis, and strategic insights generation. |
 | [TransformerBard](https://github.com/rayen003/TransformerBard-Advanced-NLP-for-Shakespeare-Text-Generation) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Transformers](https://img.shields.io/badge/-Transformers-yellow?style=flat-square) | Advanced NLP model for Shakespeare-style text generation. Implements custom transformer architecture with sophisticated preprocessing and training pipelines. |
@@ -31,44 +25,36 @@ Here are some of the projects I've worked on:
 | [VisionNarrator](https://github.com/rayen003/ImageToText-Model) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![BERT](https://img.shields.io/badge/-BERT-lightgrey?style=flat-square) | Intelligent image description system combining BERT and VGG16 models. Features advanced encoder-decoder architecture for generating natural language descriptions from visual data. |
 | [Breast Cancer ML Classifier](https://github.com/rayen003/medical-diagnosis-ml) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | Medical diagnosis tool using machine learning. Features PCA-based dimensionality reduction, data preprocessing pipeline, and interactive visualizations for cancer detection. |
 | [Docker Web Application](https://github.com/rayen003/Web_app) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | Modern containerized web application showcasing DevOps practices. Implements microservices architecture with Flask backend and PostgreSQL database integration. |
-
 ---
-
 ### **Technical Skills**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Gymnasium](https://img.shields.io/badge/-Gymnasium-4CAF50?style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/-CrewAI-black?style=flat-square)
+![LangChain](https://img.shields.io/badge/-LangChain-3178C6?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-3178C6?style=flat-square)
-![Chroma](https://img.shields.io/badge/-Chroma-FF6F00?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4B77BE?style=flat-square)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=matplotlib)
-
 ---
-
 ### **GitHub Stats**
 [![Rayen's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayen003&show_icons=true&theme=dark)](https://github.com/rayen003)
-
 ---
-
 ### **Languages**
 - English (Fluent)
 - Arabic (Native)
 - French (Fluent)
 - Spanish (Professional)
 - German (Basic)
-
 ---
-
 ### **Get in Touch**
 Feel free to reach out for collaborations or opportunities:
 - Email: [rayen.gallas03@gmail.com](mailto:rayen.gallas03@gmail.com)
