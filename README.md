@@ -1,5 +1,8 @@
 # Rayen Gallas
 **Business Administration & AI Student | Finance & ML Enthusiast**
+
+Personal portfolio — [View live site](https://rayen003.github.io)
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rayen-gallas)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:rayen.gallas03@gmail.com)
 ---
